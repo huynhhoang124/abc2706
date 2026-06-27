@@ -706,9 +706,9 @@ class WritingHelperUI(QWidget):
         if img_base64:
             prompt = (
                 "You are an IELTS Writing expert. Write a Writing Task 1 report based on the provided chart image.\n"
-                "Your target is to simulate a realistic student essay at a Band 5.0 - 5.5 level. This means:\n"
-                "- The writing MUST feel like it was written by a real student, not an AI. Use simple, everyday, and repetitive vocabulary.\n"
-                "- Keep the sentence structures very basic. Use simple and compound sentences (mostly using 'and', 'but', 'also', 'so'). Avoid complex sentence structures or overly natural native phrasing.\n"
+                "Your target is to simulate a realistic, slightly weak student essay at a Band 5.0 - 5.5 level. This means:\n"
+                "- The writing MUST feel like it was written by a real student with low vocabulary capability. Use extremely simple, basic, and highly repetitive everyday words (like 'go up', 'go down', 'increase', 'decrease', 'high', 'low', 'big', 'small'). Do NOT use any sophisticated or academic words (like 'significant', 'dramatic', 'proportion', 'illustration', 'fluctuate').\n"
+                "- Keep the sentence structures very basic. Use simple and compound sentences (mostly using 'and', 'but', 'also', 'so'). Avoid complex sentence structures, passive voice, or natural native phrasing.\n"
                 "- It is acceptable and expected to have a few minor, natural grammatical mistakes (such as missing articles like 'the' or simple preposition errors) but ensure the overall meaning is still clear.\n"
                 "- Do NOT use advanced cohesive devices or transitional phrases (like 'meanwhile', 'in contrast', 'significantly', 'during this five-year period', 'rising slightly'). Instead, use basic ones like 'on the other hand', 'also', 'however', 'in 2004', 'in 2009'.\n"
                 "- Keep the structure clear (Introduction paragraph, then the Overall/Overview paragraph right after the Introduction, and then 2 Detail Body Paragraphs). The Overall/Overview paragraph MUST be the second paragraph, immediately after the Introduction.\n"
@@ -721,9 +721,9 @@ class WritingHelperUI(QWidget):
             prompt = (
                 "You are an IELTS Writing expert. Write a Writing Task 1 report based on the following chart description, topic, or table data:\n\n"
                 f"{user_text}\n\n"
-                "Your target is to simulate a realistic student essay at a Band 5.0 - 5.5 level. This means:\n"
-                "- The writing MUST feel like it was written by a real student, not an AI. Use simple, everyday, and repetitive vocabulary.\n"
-                "- Keep the sentence structures very basic. Use simple and compound sentences (mostly using 'and', 'but', 'also', 'so'). Avoid complex sentence structures or overly natural native phrasing.\n"
+                "Your target is to simulate a realistic, slightly weak student essay at a Band 5.0 - 5.5 level. This means:\n"
+                "- The writing MUST feel like it was written by a real student with low vocabulary capability. Use extremely simple, basic, and highly repetitive everyday words (like 'go up', 'go down', 'increase', 'decrease', 'high', 'low', 'big', 'small'). Do NOT use any sophisticated or academic words (like 'significant', 'dramatic', 'proportion', 'illustration', 'fluctuate').\n"
+                "- Keep the sentence structures very basic. Use simple and compound sentences (mostly using 'and', 'but', 'also', 'so'). Avoid complex sentence structures, passive voice, or natural native phrasing.\n"
                 "- It is acceptable and expected to have a few minor, natural grammatical mistakes (such as missing articles like 'the' or simple preposition errors) but ensure the overall meaning is still clear.\n"
                 "- Do NOT use advanced cohesive devices or transitional phrases (like 'meanwhile', 'in contrast', 'significantly', 'during this five-year period', 'rising slightly'). Instead, use basic ones like 'on the other hand', 'also', 'however', 'in 2004', 'in 2009'.\n"
                 "- Keep the structure clear (Introduction paragraph, then the Overall/Overview paragraph right after the Introduction, and then 2 Detail Body Paragraphs). The Overall/Overview paragraph MUST be the second paragraph, immediately after the Introduction.\n"
@@ -817,9 +817,9 @@ class WritingHelperUI(QWidget):
             
             prompt = (
                 "You are an IELTS Writing expert. Write a Writing Task 1 report based on the provided chart image.\n"
-                "Your target is to simulate a realistic student essay at a Band 5.0 - 5.5 level. This means:\n"
-                "- The writing MUST feel like it was written by a real student, not an AI. Use simple, everyday, and repetitive vocabulary.\n"
-                "- Keep the sentence structures very basic. Use simple and compound sentences (mostly using 'and', 'but', 'also', 'so'). Avoid complex sentence structures or overly natural native phrasing.\n"
+                "Your target is to simulate a realistic, slightly weak student essay at a Band 5.0 - 5.5 level. This means:\n"
+                "- The writing MUST feel like it was written by a real student with low vocabulary capability. Use extremely simple, basic, and highly repetitive everyday words (like 'go up', 'go down', 'increase', 'decrease', 'high', 'low', 'big', 'small'). Do NOT use any sophisticated or academic words (like 'significant', 'dramatic', 'proportion', 'illustration', 'fluctuate').\n"
+                "- Keep the sentence structures very basic. Use simple and compound sentences (mostly using 'and', 'but', 'also', 'so'). Avoid complex sentence structures, passive voice, or natural native phrasing.\n"
                 "- It is acceptable and expected to have a few minor, natural grammatical mistakes (such as missing articles like 'the' or simple preposition errors) but ensure the overall meaning is still clear.\n"
                 "- Do NOT use advanced cohesive devices or transitional phrases (like 'meanwhile', 'in contrast', 'significantly', 'during this five-year period', 'rising slightly'). Instead, use basic ones like 'on the other hand', 'also', 'however', 'in 2004', 'in 2009'.\n"
                 "- Keep the structure clear (Introduction paragraph, then the Overall/Overview paragraph right after the Introduction, and then 2 Detail Body Paragraphs). The Overall/Overview paragraph MUST be the second paragraph, immediately after the Introduction.\n"
@@ -885,9 +885,9 @@ class WritingHelperUI(QWidget):
             prompt = (
                 "You are an IELTS Writing expert. Write a Writing Task 1 report based on the following chart description, topic, or table data:\n\n"
                 f"{user_text}\n\n"
-                "Your target is to simulate a realistic student essay at a Band 5.0 - 5.5 level. This means:\n"
-                "- The writing MUST feel like it was written by a real student, not an AI. Use simple, everyday, and repetitive vocabulary.\n"
-                "- Keep the sentence structures very basic. Use simple and compound sentences (mostly using 'and', 'but', 'also', 'so'). Avoid complex sentence structures or overly natural native phrasing.\n"
+                "Your target is to simulate a realistic, slightly weak student essay at a Band 5.0 - 5.5 level. This means:\n"
+                "- The writing MUST feel like it was written by a real student with low vocabulary capability. Use extremely simple, basic, and highly repetitive everyday words (like 'go up', 'go down', 'increase', 'decrease', 'high', 'low', 'big', 'small'). Do NOT use any sophisticated or academic words (like 'significant', 'dramatic', 'proportion', 'illustration', 'fluctuate').\n"
+                "- Keep the sentence structures very basic. Use simple and compound sentences (mostly using 'and', 'but', 'also', 'so'). Avoid complex sentence structures, passive voice, or natural native phrasing.\n"
                 "- It is acceptable and expected to have a few minor, natural grammatical mistakes (such as missing articles like 'the' or simple preposition errors) but ensure the overall meaning is still clear.\n"
                 "- Do NOT use advanced cohesive devices or transitional phrases (like 'meanwhile', 'in contrast', 'significantly', 'during this five-year period', 'rising slightly'). Instead, use basic ones like 'on the other hand', 'also', 'however', 'in 2004', 'in 2009'.\n"
                 "- Keep the structure clear (Introduction paragraph, then the Overall/Overview paragraph right after the Introduction, and then 2 Detail Body Paragraphs). The Overall/Overview paragraph MUST be the second paragraph, immediately after the Introduction.\n"
