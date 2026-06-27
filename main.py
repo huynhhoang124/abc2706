@@ -714,7 +714,7 @@ class WritingHelperUI(QWidget):
                 "- Keep the structure clear (Introduction paragraph, then the Overall/Overview paragraph right after the Introduction, and then 2 Detail Body Paragraphs). The Overall/Overview paragraph MUST be the second paragraph, immediately after the Introduction.\n"
                 "- In the Introduction paragraph, list/name the main items, categories, or groups compared in the chart.\n"
                 "- Ensure all major data points (start and end values, key comparisons) are correctly reported from the chart.\n"
-                "- The length of the report MUST be between 160 and 190 words. Never write less than 160 words.\n"
+                "- The length of the report MUST be between 165 and 195 words. Never write less than 160 words. To reach this length using simple language, you must explicitly write down the data points (numbers/percentages) for all categories and compare them one by one across both years instead of grouping them briefly.\n"
                 "Respond ONLY with the generated report text. Do not include any title, markdown formatting (no bold/italics, no **), or extra remarks."
             )
         else:
@@ -729,7 +729,7 @@ class WritingHelperUI(QWidget):
                 "- Keep the structure clear (Introduction paragraph, then the Overall/Overview paragraph right after the Introduction, and then 2 Detail Body Paragraphs). The Overall/Overview paragraph MUST be the second paragraph, immediately after the Introduction.\n"
                 "- In the Introduction paragraph, list/name the main items, categories, or groups compared in the chart.\n"
                 "- Ensure all major data points (start and end values, key comparisons) are correctly reported.\n"
-                "- The length of the report MUST be between 160 and 190 words. Never write less than 160 words.\n"
+                "- The length of the report MUST be between 165 and 195 words. Never write less than 160 words. To reach this length using simple language, you must explicitly write down the data points (numbers/percentages) for all categories and compare them one by one across both years instead of grouping them briefly.\n"
                 "Respond ONLY with the generated report text. Do not include any title, markdown formatting (no bold/italics, no **), or extra remarks."
             )
             
@@ -825,7 +825,7 @@ class WritingHelperUI(QWidget):
                 "- Keep the structure clear (Introduction paragraph, then the Overall/Overview paragraph right after the Introduction, and then 2 Detail Body Paragraphs). The Overall/Overview paragraph MUST be the second paragraph, immediately after the Introduction.\n"
                 "- In the Introduction paragraph, list/name the main items, categories, or groups compared in the chart.\n"
                 "- Ensure all major data points (start and end values, key comparisons) are correctly reported from the chart.\n"
-                "- The length of the report MUST be between 160 and 190 words. Never write less than 160 words.\n"
+                "- The length of the report MUST be between 165 and 195 words. Never write less than 160 words. To reach this length using simple language, you must explicitly write down the data points (numbers/percentages) for all categories and compare them one by one across both years instead of grouping them briefly.\n"
                 "Respond ONLY with the generated report text. Do not include any title, markdown formatting (no bold/italics, no **), or extra remarks."
             )
             
@@ -893,7 +893,7 @@ class WritingHelperUI(QWidget):
                 "- Keep the structure clear (Introduction paragraph, then the Overall/Overview paragraph right after the Introduction, and then 2 Detail Body Paragraphs). The Overall/Overview paragraph MUST be the second paragraph, immediately after the Introduction.\n"
                 "- In the Introduction paragraph, list/name the main items, categories, or groups compared in the chart.\n"
                 "- Ensure all major data points (start and end values, key comparisons) are correctly reported.\n"
-                "- The length of the report MUST be between 160 and 190 words. Never write less than 160 words.\n"
+                "- The length of the report MUST be between 165 and 195 words. Never write less than 160 words. To reach this length using simple language, you must explicitly write down the data points (numbers/percentages) for all categories and compare them one by one across both years instead of grouping them briefly.\n"
                 "Respond ONLY with the generated report text. Do not include any title, markdown formatting (no bold/italics, no **), or extra remarks."
             )
             
